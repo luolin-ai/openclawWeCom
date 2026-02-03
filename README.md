@@ -16,7 +16,7 @@
 
 [网站](https://openclaw.ai) · [文档](https://docs.openclaw.ai) · [DeepWiki](https://deepwiki.com/openclaw/openclaw)
 
-## 项目交流群
+## 进交流群群内测体验
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ddda8c5e-ec31-48c9-9514-9a95634a0d7b" alt="OpenClaw WeCom" style="max-width: 100%; height: auto; width: 350px; height: 499px; object-fit: cover;" />
 </p>
