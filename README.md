@@ -15,12 +15,13 @@
 除了支持原有的 WhatsApp, Telegram, Slack, Discord 等渠道外，本项目特别增强了对**企业微信 (WeCom)** 的支持。
 
 [网站](https://openclaw.ai) · [文档](https://docs.openclaw.ai) · [DeepWiki](https://deepwiki.com/openclaw/openclaw)
-![Uploading e3137438de09a6e037ccb999b2d050c9.jpg…]()
+
 
 ## 进交流群群内测体验
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ddda8c5e-ec31-48c9-9514-9a95634a0d7b" alt="OpenClaw WeCom" style="max-width: 100%; height: auto; width: 350px; height: 499px; object-fit: cover;" />
+  <img src="https://github.com/user-attachments/assets/efaa585c-c615-4914-9143-7efae5fd5bd4" alt="OpenClaw WeCom" style="max-width: 100%; height: auto; width: 350px; height: 499px; object-fit: cover;" />
 </p>
+
 
 ## 快速开始
 
