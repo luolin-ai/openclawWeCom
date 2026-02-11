@@ -19,7 +19,7 @@
 
 ## 进交流群群内测体验
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/efaa585c-c615-4914-9143-7efae5fd5bd4" alt="OpenClaw WeCom" style="max-width: 100%; height: auto; width: 350px; height: 499px; object-fit: cover;" />
+  <img src="https://github.com/user-attachments/assets/4e5b0ad6-5a20-45cb-85fc-add7756ffb2c" alt="OpenClaw WeCom" style="max-width: 100%; height: auto; width: 350px; height: 499px; object-fit: cover;" />
 </p>
 
 
